@@ -1,0 +1,25 @@
+.login-form {
+    background: linear-gradient(to right, #25c481, #25b7c4);
+    height: 100vh;
+}
+
+.login-form-content {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.login-form-wrap-content {
+    width: 100%;   
+}
+
+.login-form-wrap-content .btn-primary {
+    margin-top: 10px;
+}
+
+.login-form h1{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}

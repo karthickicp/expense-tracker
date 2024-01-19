@@ -1,0 +1,28 @@
+.register-form{
+    background: linear-gradient(to right, #25c481, #25b7c4);
+}
+
+.register-form h1{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.login-form-wrap-content .btn-primary {
+    margin-top: 10px;
+}
+
+.register-form-content {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+
+.register-form-wrap-content {
+    width: 100%;   
+}
+.register-form-wrap-content .btn-primary {
+    margin-top: 10px;
+}
